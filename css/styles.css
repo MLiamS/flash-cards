@@ -1,0 +1,8 @@
+.hiddenwalrus{
+  display: none;
+  /*background-color: red;*/
+}
+
+.clickable:hover{
+  text-decoration: underline;
+}
